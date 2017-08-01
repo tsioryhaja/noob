@@ -12,7 +12,7 @@ FTP_PASS = "omnis"
 MAX_LENGTH = 5
 
 DOMAIN="wiximg"
-
+#commentaire
 def sendAllLog():
 	count = 0
 	for line in open(LOG_PATH+"logemu.log"):
